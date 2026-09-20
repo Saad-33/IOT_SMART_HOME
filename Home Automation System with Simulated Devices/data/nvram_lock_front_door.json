@@ -1,0 +1,15 @@
+{
+  "device_id": "lock_front_door",
+  "device_type": "lock",
+  "state": {
+    "lock_state": "LOCKED",
+    "bolt_position": "extended",
+    "tamper_detected": false,
+    "battery": 92,
+    "local_pin": "1234",
+    "last_unlocked_at": 1789925736.5148613
+  },
+  "fallback_active": false,
+  "fallback_reason": null,
+  "updated_at": 1789925759.9293666
+}

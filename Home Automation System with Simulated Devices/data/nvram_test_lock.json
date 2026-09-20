@@ -1,0 +1,15 @@
+{
+  "device_id": "test_lock",
+  "device_type": "lock",
+  "state": {
+    "lock_state": "LOCKED",
+    "bolt_position": "extended",
+    "tamper_detected": false,
+    "battery": 92,
+    "local_pin": "1234",
+    "last_unlocked_at": 1788846554.1227338
+  },
+  "fallback_active": true,
+  "fallback_reason": "Simulated outage",
+  "updated_at": 1788846554.1237724
+}

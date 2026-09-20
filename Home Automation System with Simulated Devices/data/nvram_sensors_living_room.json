@@ -1,0 +1,13 @@
+{
+  "device_id": "sensors_living_room",
+  "device_type": "sensor",
+  "state": {
+    "temperature": 21.0,
+    "humidity": 45,
+    "motion": false,
+    "illuminance_lux": 10
+  },
+  "fallback_active": false,
+  "fallback_reason": null,
+  "updated_at": 1789925385.412967
+}

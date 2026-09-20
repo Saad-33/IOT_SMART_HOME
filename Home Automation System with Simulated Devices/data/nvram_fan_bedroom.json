@@ -1,0 +1,13 @@
+{
+  "device_id": "fan_bedroom",
+  "device_type": "fan",
+  "state": {
+    "power": "ON",
+    "speed": 1,
+    "mode": "normal",
+    "rpm": 360
+  },
+  "fallback_active": false,
+  "fallback_reason": null,
+  "updated_at": 1789925759.9293666
+}

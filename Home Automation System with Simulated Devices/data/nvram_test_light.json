@@ -1,0 +1,14 @@
+{
+  "device_id": "test_light",
+  "device_type": "light",
+  "state": {
+    "power": "ON",
+    "brightness": 20,
+    "color_temp": 2700,
+    "wattage": 3.6,
+    "local_switch_state": "UP"
+  },
+  "fallback_active": true,
+  "fallback_reason": "Simulated outage",
+  "updated_at": 1788846554.1173556
+}

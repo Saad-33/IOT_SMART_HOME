@@ -1,0 +1,14 @@
+{
+  "device_id": "light_living_room",
+  "device_type": "light",
+  "state": {
+    "power": "OFF",
+    "brightness": 80,
+    "color_temp": 3500,
+    "wattage": 0.0,
+    "local_switch_state": "UP"
+  },
+  "fallback_active": false,
+  "fallback_reason": null,
+  "updated_at": 1789925759.8505497
+}
